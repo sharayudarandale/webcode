@@ -1,0 +1,16 @@
+.title {
+    color: blue;
+    font-size: 24px;
+}
+
+.description {
+    color: rgb(128, 75, 0);
+    font-size: 18px;
+    line-height: 1.5;
+}
+*{
+    background-color: rgb(154, 177, 219);
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
