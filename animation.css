@@ -1,0 +1,15 @@
+div{
+    background-color: blueviolet;
+    width:100px;
+    height: 100px;
+    border: 2px solid black;
+    top:100px;
+    left:400px;
+    animation:spinAnimate 1s ease-in 0s;
+}
+
+@keyframes spinAnimate{
+    from{
+        background-color: blueviolet ;}
+        to{ background-color:red  ;}
+    }
