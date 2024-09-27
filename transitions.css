@@ -1,0 +1,19 @@
+div{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(3);
+
+}
+
+div:hover{
+    background-color: beige;
+    color: red;
+}
+div:active{
+    background-color: pink;
+    
+}
