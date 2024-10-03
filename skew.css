@@ -1,0 +1,20 @@
+div{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(223, 214, 214);
+    transition-property: all;
+    margin-left: 400px;
+    margin-top: 200px;
+    transition-duration: 2s;
+    /* background-color: black; */
+    
+}
+
+
+div:hover{
+    transform: skew(60deg);
+}
+*{
+    background-color: black;
+}
